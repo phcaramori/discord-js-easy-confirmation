@@ -1,6 +1,6 @@
 {
   "name": "discord-js-easy-confirmations",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A lightweight, extremely easy-to-use package to append confirmation (Confirm/Cancel) buttons to discord.js bot messages and interactions.",
   "main": "index.js",
   "scripts": {
