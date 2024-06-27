@@ -30,8 +30,10 @@ async execute(interaction) { //recieve interaction
 ### Options:
 You can optionally send an object containing various options to the function, allowing changes to the time before timeout, the button styles, and button labels. 
 
-`const result = await addConfirmationButtons(interaction, {timeout: 10_000} );` --> Decreases timeout from default of 60s to 10s
+```const result = await addConfirmationButtons(interaction, {timeout: 10_000} );``` 
+--> Decreases timeout from default of 60s to 10s
 
-`const result = await addConfirmationButtons(interaction, {confirmLabel: 'Ban', cancelLabel: 'Pardon'} );` --> Changes default button labels
+```const result = await addConfirmationButtons(interaction, {confirmLabel: 'Ban', cancelLabel: 'Pardon'} );``` 
+--> Changes default button labels
 
 ## Thank you for using!
