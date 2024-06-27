@@ -1,7 +1,7 @@
 {
   "name": "discord-js-easy-confirmation",
   "version": "1.0.0",
-  "description": "A lightweight package to easily append confirmation (Confirm/Cancel) buttons to bot messages and interactions from discord.js.",
+  "description": "A lightweight, extremely easy-to-use package to append confirmation (Confirm/Cancel) buttons to discord.js bot messages and interactions.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,15 @@
   "author": "Pedro Caramori",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.15.3"
+    "discord.js": "^14.0.0"
+  },
+  "homepage": "https://github.com/phcaramori/discord-js-easy-confirmation#readme",
+  "bugs": {
+    "url": "https://github.com/phcaramori/discord-js-easy-confirmation/issues",
+    "email": "phcaramori@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phcaramori/discord-js-easy-confirmation.git"
   }
 }
